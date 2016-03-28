@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DeveloperInsider//EN
+X-ORIGINAL-URL: http://www.developerinsider.in/2016/03/28/watch-microsoft-build-2016-live-stream/
+METHOD:PUBLISH
+BEGIN:VEVENT
+DESCRIPTION;LANGUAGE=en;CHARSET=utf-8:Microsoft continues to focus on enabling developers to do amazing work as businesses and industries transform in support of the shift to a cloud-first\, mobile-first world. At Build 2016 we will present the latest tools and technologies and how they can help today’s developers be their most creative and productive. http://www.developerinsider.in/2016/03/28/watch-microsoft-build-2016-live-stream/
+LOCATION;LANGUAGE=en;CHARSET=utf-8:Live at http://www.developerinsider.in/2016/03/28/watch-microsoft-build-2016-live-stream/ 
+SUMMARY;LANGUAGE=en;CHARSET=utf-8:Build 2016
+UID:Code: e01c38b9-cbcb-42d0-9312-a3fd016c7dbb
+X-ALT-DESC;FMTTYPE=text/html:<p>http://www.developerinsider.in/2016/03/28/watch-microsoft-build-2016-live-stream/</p>
+DTSTART;VALUE=DATE-TIME:20160330T153000Z
+DTEND;VALUE=DATE-TIME:20160401T220000Z
+END:VEVENT
+END:VCALENDAR
