@@ -1,2 +1,2 @@
 # Developer Insider Content
-Content used by developerinsider.in
+Content used by https://developerinsider.co
